@@ -11,7 +11,7 @@ public class MeuPrimeiroController {
 	@GetMapping("/hello")
 	@ResponseBody
 	public String hello() {
-		return "Hello!";
+		return "oi!";
 	}
 
 }
