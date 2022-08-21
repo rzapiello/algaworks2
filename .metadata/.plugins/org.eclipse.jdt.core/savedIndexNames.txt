@@ -23,8 +23,8 @@ INDEX VERSION 1.131+C:\git\projetos-spring\algaworks2\.metadata\.plugins\org.ecl
 1101127396.index
 3274641880.index
 1236249766.index
-3228881632.index
 1612430518.index
+3228881632.index
 1338516555.index
 999435243.index
 9110319.index
@@ -39,13 +39,14 @@ INDEX VERSION 1.131+C:\git\projetos-spring\algaworks2\.metadata\.plugins\org.ecl
 2603205315.index
 1472044823.index
 2886807885.index
-3600787811.index
 329103768.index
+872723324.index
+3600787811.index
 3494111224.index
 3135514405.index
+1007244328.index
 2332566667.index
 200355377.index
-1007244328.index
 627616984.index
 1029513926.index
 3015201232.index

@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="com.algaworks.di.modelo.service.AtivacaoClienteService"/>
+    <fullyQualifiedTypeName name="com.algaworks.di.modelo.Cliente"/>
+    <fullyQualifiedTypeName name="com.algaworks.di.notificacao.NotificadorEmail"/>
 </qualifiedTypeNameHistroy>
