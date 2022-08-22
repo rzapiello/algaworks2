@@ -15,9 +15,22 @@ org.junit.AfterClass	org.junit.jupiter.api.AfterAll
 org.junit.runner.RunWith*	org.junit.jupiter.api.extension.ExtendWith
 
 
+-- Link para proriedades default spring
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+--Alterando properties por linha de comando
+exemplo pela porta.
+java -jar target/algafood-api-0.0.0.1-SNAPSHOT.jar --sever.port=8082
+
+--Alterando parametros variavel de ambiente
+MAC: export SERVER_PORT=8083
+WINDOWS: set SERVER_PORT=8083
+
+
 11/08 2.2
 12/08/2022 2.5
 16/08 2.8
 16/08 2.11
 21/08 2.12
 21/08 2.14
+22/08 2.28
