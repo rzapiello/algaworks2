@@ -26,6 +26,10 @@ java -jar target/algafood-api-0.0.0.1-SNAPSHOT.jar --sever.port=8082
 MAC: export SERVER_PORT=8083
 WINDOWS: set SERVER_PORT=8083
 
+--Temos um artigo muito bom sobre JPA no nosso blog.
+--Os exemplos não são usando Spring, por isso você vai notar uma pequena diferença no uso (já que Spring facilita a nossa vida), mas o conteúdo de JPA pode ser um bom complemento no seu conhecimento:
+https://blog.algaworks.com/tutorial-jpa/
+
 
 11/08 2.2
 12/08/2022 2.5
@@ -34,3 +38,4 @@ WINDOWS: set SERVER_PORT=8083
 21/08 2.12
 21/08 2.14
 22/08 2.28
+23/08 3.3
