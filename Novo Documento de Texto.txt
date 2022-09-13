@@ -39,3 +39,11 @@ https://blog.algaworks.com/tutorial-jpa/
 21/08 2.14
 22/08 2.28
 23/08 3.3
+04/09 3.8
+05/09/2022 3.12
+ https://blog.algaworks.com/tutorial-jpa/
+05/09/2022 3.13
+ https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651
+ Artigo sobre Aggregate do Martin Fowler
+ 05/09/2022 3.14
+ 8/09/22 3.15
