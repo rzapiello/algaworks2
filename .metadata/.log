@@ -11298,3 +11298,219 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.434
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.436
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.439
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.440
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.441
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.441
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.442
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.444
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.447
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.447
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.448
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.449
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.450
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.451
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.452
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.454
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.456
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.457
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.458
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.459
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.460
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.461
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.462
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.463
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.463
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.464
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.465
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.466
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.467
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.468
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.469
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.471
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.471
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.472
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.473
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.474
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.475
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.475
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.476
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.477
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.478
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.479
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.480
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.480
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.481
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.482
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.483
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.484
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.485
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.486
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.487
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.488
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.489
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.490
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.491
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.492
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.493
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.494
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.495
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.496
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.497
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.498
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.498
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.499
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.501
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.502
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.503
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.504
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.505
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.506
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.507
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-09-13 01:14:41.508
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
